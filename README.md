@@ -15,11 +15,18 @@ Welcome to my cybersecurity learning journal! This repository documents my journ
 - **Home Lab Setup:** Configuring a virtual lab environment
 - *...and more to come.*
 
-## 🛠️ Tools and Platforms
+## 🛠️ Tools and Platform
 
 - Kali Linux
 - TryHackMe
 - GitHub
+
+
+## 🗓️ Learning Timeline
+
+- ✅ May 21: Started cybersecurity course at Creative IT
+- ✅ May 25: Learned about ISO 27001 and common cyber threats
+- ✅ May 27: Set up Kali Linux & lab environment
 
 ## 📈 Goals
 
